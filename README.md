@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
