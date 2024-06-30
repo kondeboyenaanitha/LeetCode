@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
