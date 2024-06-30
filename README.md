@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
