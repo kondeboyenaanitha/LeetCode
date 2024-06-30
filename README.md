@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0078-subsets) |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String Matching
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -185,4 +189,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
