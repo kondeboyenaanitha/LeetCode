@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Matrix
 |  |
 | ------- |
@@ -170,8 +172,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
