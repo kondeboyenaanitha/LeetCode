@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0072-edit-distance) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0432-all-oone-data-structure](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0432-all-oone-data-structure) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
