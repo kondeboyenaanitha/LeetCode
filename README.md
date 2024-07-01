@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0078-subsets) |
+| [1293-three-consecutive-odds](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
