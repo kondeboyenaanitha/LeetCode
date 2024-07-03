@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Combinatorics
 |  |
