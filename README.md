@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Matrix
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
