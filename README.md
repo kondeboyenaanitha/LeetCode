@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Recursion
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1293-three-consecutive-odds](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Number Theory
+|  |
+| ------- |
+| [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
