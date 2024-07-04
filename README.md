@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Math
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Greedy
 |  |
