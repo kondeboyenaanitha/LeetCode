@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1642-water-bottles) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2645-pass-the-pillow](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2645-pass-the-pillow](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2645-pass-the-pillow) |
