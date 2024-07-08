@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2645-pass-the-pillow](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2812-find-the-maximum-achievable-number](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String Matching
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2645-pass-the-pillow](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2645-pass-the-pillow) |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
