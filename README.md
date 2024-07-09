@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1803-average-waiting-time](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
