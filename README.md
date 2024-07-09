@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
@@ -249,15 +250,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Union Find
 |  |
 | ------- |
