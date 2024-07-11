@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
+| [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
 ## Bitmask
 |  |
