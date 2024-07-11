@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0078-subsets) |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1293-three-consecutive-odds](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -360,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+## Bitmask
+|  |
+| ------- |
+| [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 <!---LeetCode Topics End-->
