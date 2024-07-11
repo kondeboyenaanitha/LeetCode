@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0935-orderly-queue](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0935-orderly-queue) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 ## Binary Search
