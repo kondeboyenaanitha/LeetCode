@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0455-assign-cookies) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
+| [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
