@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1293-three-consecutive-odds](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1372-check-if-it-is-a-good-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Tree
 |  |
