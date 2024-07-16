@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,12 +289,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Union Find
 |  |
 | ------- |
