@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2846-robot-collisions) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String Matching
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
