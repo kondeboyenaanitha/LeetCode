@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
+| [2502-sort-the-people](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2502-sort-the-people) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2846-robot-collisions) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## String Matching
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2502-sort-the-people](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2502-sort-the-people) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Matrix
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2502-sort-the-people](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
