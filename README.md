@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Minimum Spanning Tree
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Bitmask
 |  |
 | ------- |
@@ -444,5 +446,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
