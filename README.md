@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0935-orderly-queue) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Backtracking
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1582-design-browser-history](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1582-design-browser-history) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2389-design-a-text-editor](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2389-design-a-text-editor) |
 | [2846-robot-collisions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2846-robot-collisions) |
