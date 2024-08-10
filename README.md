@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1196-filling-bookcase-shelves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0054-spiral-matrix) |
 | [0870-magic-squares-in-grid](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -362,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0757-pyramid-transition-matrix](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0757-pyramid-transition-matrix) |
 | [0801-is-graph-bipartite](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/kondeboyenaanitha/LeetCode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Bitmask
 |  |
