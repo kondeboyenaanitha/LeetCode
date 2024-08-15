@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0948-sort-an-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0948-sort-an-array) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
