@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0935-orderly-queue) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
+| [0650-2-keys-keyboard](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
