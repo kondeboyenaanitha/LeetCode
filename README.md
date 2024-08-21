@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0409-longest-palindrome](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0664-strange-printer](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0664-strange-printer) |
 | [0935-orderly-queue](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0935-orderly-queue) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0638-shopping-offers) |
 | [0650-2-keys-keyboard](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0664-strange-printer) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1196-filling-bookcase-shelves](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/1240-stone-game-ii) |
