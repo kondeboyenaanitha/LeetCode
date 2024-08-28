@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/kondeboyenaanitha/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
